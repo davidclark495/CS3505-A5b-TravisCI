@@ -9,7 +9,6 @@
  * David Clark (u1225394), Zachary Atherton (u1023217)
  * 
  * 
- * 
  * This class uses a Trie data structure to encode a set of words.
  * 
  * Each node in the trie implicitly represents a string

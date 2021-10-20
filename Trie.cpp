@@ -9,7 +9,6 @@
  * David Clark (u1225394), Zachary Atherton (u1023217)
  * 
  * 
- * 
  * A class description is found in Trie.h
  */
 

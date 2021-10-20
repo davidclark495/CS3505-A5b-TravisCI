@@ -2,6 +2,8 @@
  * A4: Refactoring and Testing
  * CS 3505
  * David Clark (u1225394), Zachary Atherton (u1023217)
+ * 
+ * 
  */
 #include "gtest/gtest.h"
 #include "Trie.h"
