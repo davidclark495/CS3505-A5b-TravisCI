@@ -11,8 +11,8 @@ script:
 - make clean
 - make all
 - cd ..
-- cd ..
 - pwd
 - ls
+- make GOOGLETEST=./googletest
 - make all
 - make test
