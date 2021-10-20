@@ -8,6 +8,6 @@ script:
 - make clean
 - make all
 - cd ..
-- make GOOGLETEST=/googletest
+- make GOOGLETEST=./googletest
 - make all
 - make test
